@@ -107,7 +107,8 @@ footer {
 footer li {
     list-style-type: none;
     display: inline-block;
-    margin-left: 20px;    
+    margin-left: 20px;  
+    margin-top: 20px;  
 }
 footer img {
     transition: all 1s;
@@ -130,45 +131,15 @@ footer img:hover {
 
 
 
-.mainindex {
+.main {
     margin-top: 250px;
     
     
 }
 
 
-
-
-
-
-
- 
-
-#tribuafrica {
-    background-image: url(./publicaciones/tribuafrica/multimedia/images/tribuafrica.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-
-}
-
-#tribuafrica a {
-    color: black;
-    text-decoration: none;
-    
-}
-
-#glandulatimo {
-    background-image: url(./multimedia/images/publicacion1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    
-}
-#glandulatimo a {
-    color: #EBE3E0;
-    text-decoration: none;
-}
-
 /*Fin Index*/
+
 
 /* Acerca de Mi */
 
